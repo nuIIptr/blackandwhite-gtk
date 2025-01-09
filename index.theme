@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BlackAndWhite
+Comment=Black and White High Contrast Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=BlackAndWhite
+GtkTheme=BlackAndWhite
+IconTheme=BlackAndWhite
+MetacityTheme=BlackAndWhite
