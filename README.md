@@ -1,5 +1,5 @@
-# blackandwhite-gtk
+# blackandwhite
 
-###### forked from https://www.opencode.net/infinity64/blackandwhite-gtk to support gtk 4 
+###### forked https://www.opencode.net/infinity64/blackandwhite-gtk to support gtk4 
 
-###### clone repository inside ~/.themes 
+###### cd ~/.themes; git clone https://github.com/nuIIptr/blackandwhite.git
